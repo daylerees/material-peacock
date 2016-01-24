@@ -976,6 +976,11 @@
         <option name="BACKGROUND" value="2b2a27" />
       </value>
     </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="ff5d38" />
+      </value>
+    </option>
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="26a6a6" />
