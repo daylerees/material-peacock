@@ -1,15 +1,7 @@
 <scheme name="Material Peacock" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <option name="EDITOR_FONT_NAME" value="Hack" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="5f7210" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -864,6 +856,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="dee3ec" />
