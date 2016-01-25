@@ -13,7 +13,7 @@ If you'd like to use all of my settings (more than just colours) then simply imp
 
 If you'd like to install only the colour scheme, simply copy `Material Peacock.icls` to:
 
-    ~/Library/Preferences/WebIde100/colors
+    ~/Library/Preferences/WebIde100/config/colors
 
 The `WebIde100` section is your PHPStorm version multiplied by ten. For example, using PHPStorm 7 it would be `WebIde70`. If the `colors` directory does not exist, then simply create it.
 
