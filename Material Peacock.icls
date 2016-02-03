@@ -994,6 +994,7 @@
     <option name="PHP_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="ff5d38" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_HEREDOC_ID">
