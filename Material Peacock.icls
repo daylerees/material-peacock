@@ -699,7 +699,6 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="888888" />
-        <option name="BACKGROUND" value="222222" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
