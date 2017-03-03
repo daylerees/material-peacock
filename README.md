@@ -13,7 +13,7 @@ If you'd like to use all of my settings (more than just colours) then simply imp
 
 If you'd like to install only the colour scheme, simply copy `Material Peacock.icls` to:
 
-    ~/Library/Preferences/WebIde100/colors
+    ~/Library/Preferences/WebIde100/config/colors
 
 For Linux: copy the file under the following path:
 
